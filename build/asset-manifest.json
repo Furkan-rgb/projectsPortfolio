@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.5d586544.chunk.css",
+    "main.js": "/build/static/js/main.7f8e016b.chunk.js",
+    "main.js.map": "/build/static/js/main.7f8e016b.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.0583103d.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.0583103d.js.map",
+    "static/js/2.4c5e06ed.chunk.js": "/build/static/js/2.4c5e06ed.chunk.js",
+    "static/js/2.4c5e06ed.chunk.js.map": "/build/static/js/2.4c5e06ed.chunk.js.map",
+    "index.html": "/build/index.html",
+    "precache-manifest.603210cf4bbd7ee38e7cb15ac56f9e19.js": "/build/precache-manifest.603210cf4bbd7ee38e7cb15ac56f9e19.js",
+    "service-worker.js": "/build/service-worker.js",
+    "static/css/main.5d586544.chunk.css.map": "/build/static/css/main.5d586544.chunk.css.map",
+    "static/js/2.4c5e06ed.chunk.js.LICENSE.txt": "/build/static/js/2.4c5e06ed.chunk.js.LICENSE.txt",
+    "static/media/ProfilePic.jpg": "/build/static/media/ProfilePic.2d6a87e3.jpg",
+    "static/media/firebase_logo.png": "/build/static/media/firebase_logo.c24b6b9c.png",
+    "static/media/python_logo.png": "/build/static/media/python_logo.b32ab39f.png",
+    "static/media/react_logo.png": "/build/static/media/react_logo.37fe8322.png",
+    "static/media/underConstruction.png": "/build/static/media/underConstruction.bdeae3e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0583103d.js",
+    "static/js/2.4c5e06ed.chunk.js",
+    "static/css/main.5d586544.chunk.css",
+    "static/js/main.7f8e016b.chunk.js"
+  ]
+}

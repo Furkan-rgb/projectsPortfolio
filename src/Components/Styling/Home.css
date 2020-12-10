@@ -1,0 +1,14 @@
+.image {
+    filter: grayscale(80%);
+    max-height: 93vh;
+    max-width: 80%;
+    border-radius: 4px;
+    padding: 0px;
+    transition: 1s;
+}
+
+.image:hover {
+    filter: grayscale(10%);
+    transform: scale(1.01);
+    transition: 3s;
+}
