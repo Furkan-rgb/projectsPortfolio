@@ -1,2 +1,2 @@
-# projectsPortfolio
-Een portfolio van al mijn werk
+# Projects Portfolio
+A portfolio of all my work
