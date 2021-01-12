@@ -19,9 +19,14 @@ $ npm install @material-ui/core
 
 ### React
 -React-router-dom
+```bash
+$ npm install --save react-router-dom
+```
+See: https://www.npmjs.com/package/react-router-dom
+React Router keeps your UI in sync with the URL. In this project, I've utilized Hashrouter in this project.
 
 ### Material-UI
-See https://material-ui.com/ for more information and available components/props
+See https://material-ui.com/ for more information and available components/props.
 <br>-@material-ui/core
 <br>-@material-ui/icons
 
