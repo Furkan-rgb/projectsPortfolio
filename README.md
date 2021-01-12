@@ -1,7 +1,9 @@
 # The new PDA System for AXI
 Professional Portfolio. This is my portfolio to showcase my skills. <br> <br>
-<a href="url"><img src="https://i.imgur.com/Dw97S9N.png" height="500"  ></a>
-<a href="url"><img src="https://i.imgur.com/AdVYDUb.png" height="500"  ></a>
+<a href="url"><img src="https://i.imgur.com/Dw97S9N.png" height="200"  ></a>
+<a href="url"><img src="https://i.imgur.com/AdVYDUb.png" height="200"  ></a>
+<a href="url"><img src="https://i.imgur.com/Xl7PrRW.png" height="300"  ></a>
+<a href="url"><img src="https://i.imgur.com/KOcjNXv.png" height="300"  ></a>
 
 ## Getting started
 Clone or download the project and navigate to the source folder in your terminal. From there, you can run the following command to run the application in development mode.
