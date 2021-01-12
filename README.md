@@ -22,8 +22,8 @@ $ npm install @material-ui/core
 ```bash
 $ npm install --save react-router-dom
 ```
-See: https://www.npmjs.com/package/react-router-dom
-React Router keeps your UI in sync with the URL. In this project, I've utilized Hashrouter in this project.
+See: https://www.npmjs.com/package/react-router-dom <br>
+React Router keeps your UI in sync with the URL. In this project, I've utilized Hashrouter, because it uses URL hash, it puts no limitations on supported browsers or web servers. Server-side routing is independent from client-side routing. This means that it will load from any page, regardless whether the homepage had been loaded.
 
 ### Material-UI
 See https://material-ui.com/ for more information and available components/props.
