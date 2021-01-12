@@ -35,5 +35,11 @@ function App() {
   return <Button color="primary">Hello World</Button>;
 }
 ```
+##### Material-UI Demos
+See below demos for more information about the API's used.
+<br>https://material-ui.com/components/grid/
+<br>https://material-ui.com/components/paper/#paper
+<br>https://material-ui.com/components/cards/#card
+
 ## License
 [MIT](https://github.com/Isaidhello/AXI/blob/master/LICENSE)
