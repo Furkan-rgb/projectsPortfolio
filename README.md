@@ -11,7 +11,9 @@ npm start
 
 ## Libraries
 #### Installation
+```bash
 $ npm install @material-ui/core
+```
 
 ### React
 -React-router-dom
@@ -21,10 +23,6 @@ See https://material-ui.com/ for more information and available components/props
 <br>-@material-ui/core
 <br>-@material-ui/icons
 
-#### Installation
-```bash
-$ npm install @material-ui/core
-```
 
 #### Material-UI Usage 
 ```
